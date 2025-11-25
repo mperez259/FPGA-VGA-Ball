@@ -11,6 +11,7 @@ It includes:
 <p align="center">
   <img src="sim/vga_ball.gif" width="600">
 </p>
+
 ---
 
 ## Features
