@@ -6,7 +6,7 @@ It includes:
 - A fully functional **VGA timing generator**
 - A **3×3 hardware ball** with pixel-accurate movement
 - **Border collision detection**
-- A **parameterized ball module** (easy to scale to 21×21 for “BigBall”)
+- A **parameterized ball module** (for scaling)
 
 <p align="center">
   <img src="sim/vga_ball.gif" width="600">
@@ -30,4 +30,4 @@ Implements 640×480 @ 60 Hz with:
 - Parameterized for easy resizing
 
 ### Collision Detection
-- Walls are drawn by checking pixel positions:
+- Walls are drawn by checking pixel positions
