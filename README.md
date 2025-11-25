@@ -9,7 +9,7 @@ It includes:
 - A **parameterized ball module** (easy to scale to 21×21 for “BigBall”)
 
 <p align="center">
-  <img src="sim/vga_ball.gif" width="600">
+  <img src="vga_ball.gif" width="600">
 </p>
 
 ---
