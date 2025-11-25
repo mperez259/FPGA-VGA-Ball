@@ -9,9 +9,7 @@ It includes:
 - A **parameterized ball module** (for scaling)
 
 
-<p align="center">
-  <img src="sim/vga_ball.gif" width="600">
-</p>
+![VGA Ball Demo](https://raw.githubusercontent.com/mperez259/FPGA-VGA-Ball/main/sim/vga_ball.gif)
 
 
 ## Features
