@@ -8,11 +8,11 @@ It includes:
 - **Border collision detection**
 - A **parameterized ball module** (for scaling)
 
+
 <p align="center">
   <img src="sim/vga_ball.gif" width="600">
 </p>
 
----
 
 ## Features
 
