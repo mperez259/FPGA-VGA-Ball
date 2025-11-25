@@ -9,9 +9,8 @@ It includes:
 - A **parameterized ball module** (easy to scale to 21×21 for “BigBall”)
 
 <p align="center">
-  ![vga_ball](https://github.com/user-attachments/assets/2564b8bb-fbd8-4c05-b9ba-54ede3ddfad8)
+  <img src="sim/vga_ball.gif" width="600">
 </p>
-
 ---
 
 ## Features
